@@ -1,4 +1,4 @@
-import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from "react-icons/ai";
+import { AiFillPhone, AiOutlineMail, AiFillEnvironment, AiFillHome } from "react-icons/ai";
 
 import "../styles/components/informationcontainer.sass"
 
@@ -16,6 +16,13 @@ const InformationContainer = () =>{
             <div>
                 <h3>E-mail</h3>
                 <p>wpaulista_sp@hotmail.com</p>
+            </div>
+        </div>
+        <div className="info-card">
+            <AiFillHome id="home-icon" />
+            <div>
+                <h3>Web-site</h3>
+                <a href="https://bywilliams.github.io/site/" target="_newblank"><p>bywilliams.github.io/site</p></a>
             </div>
         </div>
         <div className="info-card">

@@ -6,7 +6,7 @@ import './styles/components/app.sass'
 function App() {
   return (
     <div id="portfolio">
-      <h1>William Silva</h1>
+      <h1>William Silva Sebastião</h1>
       <Sidebar />
       <MainContent />
     </div>
