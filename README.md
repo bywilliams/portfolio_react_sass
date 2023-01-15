@@ -1,4 +1,4 @@
-# <center>Portofolio React + SASS </center>
+# <center>Portfolio React + SASS </center>
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=SASS&color=white&style=for-the-badge&logo=react)
 
