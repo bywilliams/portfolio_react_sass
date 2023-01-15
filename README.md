@@ -6,7 +6,7 @@
 Projeto feito com:
  - HTML, CSS -> SASS + Vite
 
-O Intuito do projeto foi praticar SASS e alguns modules como o react0icons.
+O Intuito do projeto foi praticar SASS e alguns modules como o react_icons.
 ___
 
 # Imagem da Aplicação

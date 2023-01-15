@@ -1,8 +1,8 @@
 import SocialNetwork from "./SocialNetworks";
+import InformationContainer from "./InformationContainer";
 import Avatar from "../img/wil.jpeg";
 
 import  "../styles/components/sidebar.sass";
-import InformationContainer from "./InformationContainer";
 
 const Sidebar = () =>{
     return (
